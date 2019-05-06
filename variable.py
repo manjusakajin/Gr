@@ -4,3 +4,5 @@ keyword = {
   'else': ['else'],
   'def': ['def'],
 }
+
+methods = ["randomRun"]
